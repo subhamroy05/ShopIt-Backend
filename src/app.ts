@@ -41,7 +41,7 @@ app.use(express.json());
 app.use(morgan("dev"));
 app.use(
   cors({
-    origin: ["https://shopify-frontend-two.vercel.app", "http://localhost:5173", "https://shopify-frontend-git-main-sekhars-projects-b5d3087c.vercel.app", "https://shopify-frontend-three.vercel.app"],
+    origin: ["https://shopify-frontend-two.vercel.app", "http://localhost:5173", "https://shopify-frontend-git-main-sekhars-projects-b5d3087c.vercel.app", "https://shopify-frontend-three.vercel.app","https://shop-it-frontend-kappa.vercel.app"],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
