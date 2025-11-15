@@ -2,6 +2,9 @@
 #  TechShopX-Ecomm Project
 
 
+### 🔗 Related Repositories
+- **Frontend :** [https://github.com/subhamroy05/ShopIt-Frontend]
+- **Backend (This Repo)**
 
 # Install Dependencies
 
